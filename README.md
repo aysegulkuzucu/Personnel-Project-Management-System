@@ -1,7 +1,7 @@
-# ProjectManagementSystem
+# Personel-Project-Management-System
 
 Github Repository : https://github.com/aysegulkuzucu/ProjectManagementSystem
 
-Gitbook Raporu : https://aysegulkkuzucu.gitbook.io/personel-proje-takip-sistemi/
+Review the project report : https://aysegulkkuzucu.gitbook.io/personel-proje-takip-sistemi/
 
-YouTube Linki : https://youtu.be/xFlBnT249mQ
+Review the project presentation : https://youtu.be/xFlBnT249mQ
