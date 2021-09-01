@@ -1,4 +1,4 @@
-# Personel-Project-Management-System
+# Personnel-Project-Management-System
 
 Github Repository : https://github.com/aysegulkuzucu/ProjectManagementSystem
 
